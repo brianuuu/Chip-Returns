@@ -1,7 +1,7 @@
 ---------------------------Sonic Generations Mod--------------------------
 -----------------------------Chip Returns v1.1----------------------------
 
-This is a mod for Sonic Generations that recreates Chip's appearance in hub world, stage and result screen from Sonic Unleashed.
+This is a mod for Sonic Generations that recreates Chip's appearance in hub worlds, stages and result screen from Sonic Unleashed.
 
 ------------------------------------------------------------
 Mod Usage
