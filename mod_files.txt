@@ -1,0 +1,4 @@
+add ChipReturns.dll
+add ConfigSchema.json
+add mod.ini
+add README.txt
