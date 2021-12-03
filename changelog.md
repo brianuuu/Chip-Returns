@@ -1,3 +1,7 @@
+## Chip Returns v1.2
+
+- Fixed competibility with Sonic 06 Definitive Experience & STH2006 Project
+
 ## Chip Returns v1.1
 
 - Much safer object destruction detection, this should fix all recently reported crash

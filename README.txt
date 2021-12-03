@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Chip Returns v1.1----------------------------
+-----------------------------Chip Returns v1.2----------------------------
 
 This is a mod for Sonic Generations that recreates Chip's appearance in hub worlds, stages and result screen from Sonic Unleashed.
 
@@ -13,6 +13,16 @@ Mod Usage
 Known Issues
 ------------------------------------------------------------
 -Stages that disable setdata_base will not have Chip at the result screen, so far Windmill Isle Act 1-2 and Arid Sands Act 2 from respective adventure packs are discovered. The mod creators will need to change layout to not disable base layer to support this mod.
+
+------------------------------------------------------------
+Change Log
+------------------------------------------------------------
+v1.1
+-Much safer object destruction detection, this should fix all recently reported crash
+-Small improvement on Chip's movement
+
+v1.2
+-Fixed competibility with Sonic 06 Definitive Experience & STH2006 Project
 
 ------------------------------------------------------------
 Credits
