@@ -1,6 +1,12 @@
+## Chip Returns v1.3
+
+- Bypass invalid SetObjectID because someone decided to have an invalid layout file (Unleashing Unleashed Project)
+
+
 ## Chip Returns v1.2
 
 - Fixed competibility with Sonic 06 Definitive Experience & STH2006 Project
+
 
 ## Chip Returns v1.1
 

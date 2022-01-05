@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Chip Returns v1.2----------------------------
+-----------------------------Chip Returns v1.3----------------------------
 
 This is a mod for Sonic Generations that recreates Chip's appearance in hub worlds, stages and result screen from Sonic Unleashed.
 
@@ -23,6 +23,9 @@ v1.1
 
 v1.2
 -Fixed competibility with Sonic 06 Definitive Experience & STH2006 Project
+
+v1.3
+-Bypass invalid SetObjectID because someone decided to have an invalid layout file (Unleashing Unleashed Project)
 
 ------------------------------------------------------------
 Credits
