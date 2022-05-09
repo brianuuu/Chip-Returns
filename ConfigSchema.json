@@ -4,6 +4,18 @@
          "Name":"Config",
          "DisplayName":"Configurations",
          "Elements":[
+			{
+				"Name":"nModel",
+				"DisplayName":"Model Type",
+				"Description":
+				[
+					"Changes Chip's animation base on model type",
+				],
+				"Type":"ModelType",
+				"MinValue":null,
+				"MaxValue":null,
+				"DefaultValue":"0"
+			},
             {
                "Name":"bFollowHub",
                "Description":[
@@ -29,5 +41,27 @@
          ]
       }
 	],
+	"Enums": 
+	{
+		"ModelType": 
+		[
+			{
+				"DisplayName": "Sonic the Hedgehog",
+				"Value": "0",
+				"Description": 
+				[
+					"Sonic the Hedgehog",
+				]
+			},
+			{
+				"DisplayName": "Sonic the Werehog",
+				"Value": "1",
+				"Description": 
+				[
+					"Sonic the Werehog",
+				]
+			},
+		],
+	},
 	"IniFile":"mod.ini"
 }
