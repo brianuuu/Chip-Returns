@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Chip Returns v1.3----------------------------
+-----------------------------Chip Returns v1.5----------------------------
 
 This is a mod for Sonic Generations that recreates Chip's appearance in hub worlds, stages and result screen from Sonic Unleashed.
 
@@ -29,6 +29,9 @@ v1.3
 
 v1.4
 -Enabled Werehog support configuration
+
+v1.5
+-E-rank support for Score Generations
 
 ------------------------------------------------------------
 Credits

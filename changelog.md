@@ -1,3 +1,8 @@
+## Chip Returns v1.5
+
+- E-rank support for Score Generations
+
+
 ## Chip Returns v1.4
 
 - Enabled Werehog support configuration

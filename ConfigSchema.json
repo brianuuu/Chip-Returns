@@ -19,7 +19,7 @@
             {
                "Name":"bFollowHub",
                "Description":[
-                  "Enable Chip following Sonic in HUD World"
+                  "Enable Chip following Sonic in HUB World"
                ],
                "DisplayName":"Enable Chip following Sonic in HUD World",
                "Type":"bool",
