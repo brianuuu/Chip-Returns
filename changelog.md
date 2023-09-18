@@ -1,3 +1,8 @@
+## Chip Returns v1.6
+
+- HE1ML Compatibility
+
+
 ## Chip Returns v1.5
 
 - E-rank support for Score Generations
